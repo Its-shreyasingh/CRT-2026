@@ -66,7 +66,7 @@ class Stack
 };
 int main()
 {
-    int MAX_SIZE=5;
+    int MAX_SIZE=4;
     Stack s;
     s.push(10);
     s.push(20);
